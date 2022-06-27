@@ -1,4 +1,4 @@
-# Customer_Segmentation_to_identify_Loyal_Customers
+# Customer Segmentation to Identify Loyal Customers Using Machine Learning Model
 
 <br>
 
